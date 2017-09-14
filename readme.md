@@ -1,3 +1,11 @@
+### GIT
+
+1. How do you revert a commit on your local repository?
+
+2. How do you revert a commit that has already been pushed and made public?
+
+3. How would you move a commit from one branch to another?
+
 ### HTTP - Hypertext transfer protocol
 
 1. What is CORS? How does it work?
